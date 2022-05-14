@@ -1,0 +1,9 @@
+<xml xmlns="https://developers.google.com/blockly/xml">
+  <block type="start_wiz_program" id="A)]k*=gp0I(RVeQ8}7~," deletable="false" movable="false" x="10" y="10">
+    <next>
+      <block type="wizgear_tricolor_color_picker" id="L6{Uyd}uv}#xiTU*K`?Q">
+        <field name="COLOR">#cc0000</field>
+      </block>
+    </next>
+  </block>
+</xml>
